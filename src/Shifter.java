@@ -1,3 +1,3 @@
-public class Shifter {
+public abstract class Shifter {
 
 }

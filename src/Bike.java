@@ -1,4 +1,4 @@
-public class Bike {
+public abstract class Bike {
     Frame frame;
     Tires tires;
     Brakes brakes;

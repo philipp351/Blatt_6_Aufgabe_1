@@ -1,4 +1,4 @@
-public class Frame {
+public abstract class Frame {
     String color;
 
     public Frame(String color) {

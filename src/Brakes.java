@@ -1,3 +1,3 @@
-public class Brakes{
+public abstract class Brakes{
 
 }
